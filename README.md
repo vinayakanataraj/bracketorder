@@ -9,10 +9,10 @@ Say goodbye to looking at the price chart and making bad financial decisions.
 
 ## Initial setup
 Install requirements using:
-`python -m pip install -r requirements.txt`
+```python -m pip install -r requirements.txt```
 
 ## Run command
-`python -m streamlit run app.py`
+```python -m streamlit run app.py```
 
 ## Usage
 Paste the enctoken in the "enctoken" entry field.
